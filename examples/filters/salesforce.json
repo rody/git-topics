@@ -1,0 +1,12 @@
+[
+    {
+        "regex": "\\.cls$",
+        "type": "Apex Class",
+        "skip": false
+    },
+    {
+        "regex": "\\.cls-meta.xml$",
+        "type": "Apex Class Metadata",
+        "skip": true
+    }
+]
