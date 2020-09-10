@@ -8,7 +8,7 @@ Generate git commit report grouped by topics.
 Generates a summary of file changes by topics
 
 Usage:
-  ./dist/git-topics_darwin_amd64 [flags]
+  git-topics [flags]
 
 Flags:
   -f, --filter string       topic filter (default JIRA: "\\[?[a-zA-Z0-9]_*-[0-9]+\\]?") (default "\\[?[a-zA-Z0-9]_*-[0-9]+\\]?")
